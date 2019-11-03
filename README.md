@@ -9,6 +9,6 @@ Used Languages:
 ---------------
 - Go
 - Java
-- JavaScript (NodeJS, VueJS, jQuery, AJAX)
+- JavaScript (NodeJS, TypeScript, VueJS, Angular, React, jQuery, AJAX)
 - Python
 - Visual C#
